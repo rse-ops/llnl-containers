@@ -12,3 +12,19 @@ Each directory here reflects the Github namespace. If a directory is not present
 
 - [geodynamics/sw4](geodynamics/sw4)
 - [GEOSX/GEOSX](GEOSX/GEOSX): already has [automated builds](https://github.com/GEOSX/thirdPartyLibs/tree/master/docker) on Docker hub under [geosx](https://hub.docker.com/u/geosx).
+
+License
+-------
+
+Copyright (c) 2022, Lawrence Livermore National Security, LLC. 
+Produced at the Lawrence Livermore National Laboratory.
+
+RADIUSS is licensed under the MIT license [LICENSE](./LICENSE).
+
+Copyrights and patents in the RADIUSS Docker project are retained by
+contributors. No copyright assignment is required to contribute to RADIUSS
+Docker.
+
+This work was produced under the auspices of the U.S. Department of
+Energy by Lawrence Livermore National Laboratory under Contract
+DE-AC52-07NA27344.
